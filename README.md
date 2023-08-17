@@ -1,2 +1,2 @@
-# write a program to give grades to a student 
+# Write a program to give grades to a student 
  
